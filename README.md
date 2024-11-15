@@ -1,5 +1,7 @@
 # README.md.
 # TUGAS BAHASA PEMROGRAMAN P9
+![Praktikum5 flowchart](https://github.com/user-attachments/assets/c3e9a7d4-d2e7-40d6-9d86-4c25ca4c6299)
+
 
 ![Screenshot 2024-11-14 132334](https://github.com/user-attachments/assets/96033272-621b-4f3b-b61d-1a60d3d98d81)
 
